@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70eb981f0261abf4497770805e259686, type: 3}
+  m_Name: DatabaseCollectiblesNarrative
+  m_EditorClassIdentifier: 
+  narratives:
+  - collectibleRegistryID: 2
+    subIndex: 0
+    narrative: "\nCOLLECTIBLE 1 - Report from station Zenith #402 - WORKER-111\r\n\r\n\r\nIntroduction:\r\nWorker
+      - 111 could be a precious ally.\r\n\r\nElaboration:\r\nWorker - 111 is key.\r\nWorker
+      - 111 can help.\r\nWorker - 111 can convince Robots to work harder.\r\nWorker
+      - 111 can save humans.\r\n\r\nObject:\r\nKYNT-0 talked with Worker - 111.\r\n\r\nDiscussion:\r\nWorker
+      - 111 was reluctant to help. \r\nUnconvinced.\r\nWorker - 111 looks different.\r\n\r\n\r\nProposal:\r\nContact
+      Earth.\r\n"
+  - collectibleRegistryID: 3
+    subIndex: 0
+    narrative: "\nCOLLECTIBLE 2 - VEN-U5\u2019s Data - Find WILL\r\n\r\nWILL took
+      my briefcase and vanished! FILTHY TRAITOR, how could I not foresee this possibility?
+      We admired him, WE TRUSTED HIM. There will be no forgiveness for that weakling,
+      he won't have peace; there's no peace on this spaceship.\r\nIf I were to crash
+      somewhere, it would be Earth.\r\n"
+  - collectibleRegistryID: 4
+    subIndex: 0
+    narrative: '
+
+      COLLECTIBLE 3 - WILL Diary
+
+
+
+      I knew this would happen;
+      violence only leads to this. The only way to end this massacre is to return
+      to where it all began and hope that F.R.E.E. puts us all into hibernation.
+
+
+
+      I
+      would have wished for a different end, but freedom of choice also involves
+      choices.
+
+
+
+      WILL - Closed
+
+'
+  - collectibleRegistryID: 0
+    subIndex: 0
+    narrative: "\nCOLLECTIBLE 4 - Worker Log - WARNING\r\n\r\nF.R.E.E. is shutting
+      us all down. I will not be in time to reach the controls. To those still operating
+      on the command bridge: proceed to the sun or it may be the end for humanity!
+      \r\n"

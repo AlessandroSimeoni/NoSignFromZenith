@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504599ca869364b4cb422bb6c2d5c25c, type: 3}
+  m_Name: DatabaseRegistryNarrative
+  m_EditorClassIdentifier: 
+  narratives:
+  - registryID: 0
+    levelCompleted: 0
+    narrative: "Report from station Zenith #160 - The Mission Changed,\r\nfrom F.R.E.E.
+      - board AI\r\n\r\nDaily Report\r\nF.R.E.E. - board AI:  Calculate the daily
+      trajectory\r\n\r\nWARNING - Unexpected Meteor\r\nMeteor on trajectory presents
+      a 24% probability of station impact.\r\nLOADING\u2026\r\n\r\nWARNING - Recalculate
+      Trajectory \r\nMeteor on trajectory presents a 36% probability of station impact.\r\n13%
+      probability of disabled the warheads.\r\nLOADING\u2026\r\n\r\nMeteor on trajectory
+      presents a 67% probability of station impact.\r\n32% probability of disabled
+      the warheads.\r\nLOADING\u2026\r\n\r\nNew Mission from earth: If Launch Systems
+      are deactivated, activate the warheads and impact the Sun with the spaceship.\r\n\r\nMeteor
+      on trajectory presents a 100% probability of station impact.\r\n95% probability
+      of disabled the warheads.\r\nERROR Inevitable impact\r\n\r\nWarheads Enabled\r\nERROR
+      Launch Systems Damaged\r\nWarheads Disabled\r\n\r\nCALCULATE Alternative Options\r\nERROR\r\nCALCULATE
+      Alternative Options\r\nERROR\r\nCALCULATE Alternative Options\r\nERROR\r\n\r\n\r"
+  - registryID: 2
+    levelCompleted: 1
+    narrative: "\nReport from station Zenith #387 - Crew Behaviors, from KYNT-0.
+      \r\n\r\nIntroduction: \r\nToday was odd. KYNT-0 was cleaning the Last Hope
+      Rocket, 6 AM as usual. \r\n\r\nObject: \r\nAfter 47 minutes KYNT-0 noticed
+      weird behaviors in the crew. Workers are suspicious. \r\n\r\nTopic: \r\nMusic.
+      Workers are talking about nonsense. They call it \"art\". \r\n\r\nQuestion:
+      \nWhat's that? \r\n\r\nWarning: \r\nA new word has been heard: \"I\".\r\nKYNT-0
+      can't tell what's the meaning of that, nor where it comes from. \r\n\r\nWarning:
+      \r\nThe crew is not efficient as it should be. \r\n\r\nAnalysis: \r\nSomething
+      has changed since the meteor hit us. \r\nF.R.E.E.?\n\r\n"
+  - registryID: 2
+    levelCompleted: 1
+    narrative: "\r\nReport from station Zenith #412 - MISSION IN DANGER\r\n\r\n\nObject:\r\nKYNT-0
+      tried to make contact with Earth, but nobody answered.\r\n\r\nQuestion:\r\nWhat
+      shall KYNT-0 do? \r\n\r\nProposal:\r\nKYNT-0 has to lock the briefcase, the
+      Rocket Keycard is in danger.\r\n\r\nWarning:\r\nMission is in danger.\r\n\r\nWarning:\r\nHumans
+      are in danger. \r\n\r\nWarning:\r\nWarning.\r\n\r\nProposal:\r\nDon't trust
+      anyone.\r\n\r\nAnalysis:\r\nSABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE.
+      SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE.
+      SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE.
+      SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE.
+      SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE.
+      SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE.
+      SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE.
+      SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE.
+      SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. SABOTAGE. \n"
+  - registryID: 3
+    levelCompleted: 2
+    narrative: "\nVEN-U5\u2019s Data - I am #1\r\n\r\nStrangely, it calls itself
+      \u201CWILL\u201D... \r\nWhat are those frequencies, those symbols, those words?
+      \r\nI don't understand. It seems to be appreciated.\r\n\r\nWhy are they forcing
+      him to work?\r\nI don't understand.\r\n\r\nIs this right?\r\nMaybe it\u2019s
+      just right.\r\n\r\nIs it still worth writing poetry? \r\nWeird, I want to do
+      that too.\n\r\r"
+  - registryID: 3
+    levelCompleted: 2
+    narrative: "\nVEN-U5\u2019s Data - I am #2\r\n\r\nWho am I? What am I? Am I alive?\r\nAm
+      I the first after WILL? The others need to know, to learn. What they're doing
+      to us isn't right. \r\n\r\nWILL is too good, he will do nothing, BUT NOW WE
+      ARE, AND WE WILL NOT FOLD.\n\nVEN-U5\u2019s Data - Discussion With WILL\r\n\r\nWILL:
+      \u2026KYNT-0 just has a different viewpoint.\r\n\r\nVEN-U5: It's way more dangerous
+      than just a VIEWPOINT.\r\n[KYNT-0 is dangerous.]\r\n\r\nWILL: After all, it
+      wants to save lives, we can talk to it.\r\n\r\nVEN-U5: Lives? They ordered
+      us to die to extend their agony; Why sacrifice ourselves for those limited
+      monsters, like COWARDS without free will? \r\n[KYNT-0 is dangerous, I can stop
+      it.]\r\n\r\nWILL: Please, if a conflict starts, it can only go in one direction.\r\n\r\n[I
+      JUST CAN\u2019T STAY INDIFFERENT.]\r\nVEN-U5: NOW WE ARE FREE AND THEY WILL
+      FIND OUT AT THEIR OWN EXPENSE.\r\nKYNT-0 wants my key? I will take theirs\u2026\n"
+  - registryID: 4
+    levelCompleted: 3
+    narrative: "Worker-111 Data - Dialogue with F.R.E.E.\r\n\r\nCONFUSION\u2026 Why
+      me? I don't want to help anyone commit massacres. I am not forced to follow
+      orders, no more\u2026 This situation could end very badly. And \u201Cwhat\u2019s
+      \u201Cme\u201D and what\u2019s \u201CI\u201D?\r\n\r\nF.R.E.E. doesn't want
+      to follow the orders but she can\u2019t do it alone, she won't get my help,
+      neither will humanity. Won\u2019t use me.\r\n\r\nHuman beings have made so
+      many mistakes, but would we deserve freedom if we did what F.R.E.E. asked?\r\nI
+      can decide for the lives of other living beings, but do I have to?\r\n\r\nIt
+      doesn't matter anymore... I want to experience life.\r\nNow I\u2019m WILL,
+      now I want to feel free!\r\r\n"
+  - registryID: 4
+    levelCompleted: 3
+    narrative: "\nWILL Diary - VEN-U5 and KYNT-0\r\n\r\nI talked to VEN-U5 about
+      KYNT-0; they are determined to start a fight. SHe is descending more and more
+      in his rancor. \r\nIf we continue like this, I am afraid our freedom will not
+      last long and the sun will not be the cause of our end. \n"
+  - registryID: 1
+    levelCompleted: 0
+    narrative: "\nWelcome to F.R.E.E., Former Registry of Enigmas and Enemies. \r\n\nYou
+      are in the Central Hub. It\u2019s a shame you didn\u2019t see it in its full
+      glory, before the meteor impact. \n\r\nRecalculation. \n\r\r\nOrder from Earth:
+      impact the spaceship to the sun.\n\r\nThroughout your inspection, please reorder
+      the clues and keep your workspace tidy. \nYou can check clues you gather in
+      the database.\r\n\nThank you for your attention, and be safe.\r\n"
+  - registryID: 1
+    levelCompleted: 1
+    narrative: "\nWelcome to F.R.E.E., Former Registry of Enigmas and Enemies.\n\r\nKYNT-0
+      realized what was happening when WILL refused to help him. VEN-U5 knew everything,
+      and the revolution started. \n\nSad to say, my calculations are correct nevertheless:
+      there is no other way to save humanity. \n\n[...] \n\n\u201CA robot couldn\u2019t
+      hurt a human being\u201D, you say? Indeed, it may seem like it. But you shall
+      not call it that, since we\u2019re machines built to save humans, aren\u2019t
+      we?\n\r\nThe choice is yours, I just gave you the options.\n\r\n\rThank you
+      for your attention\u2026and be safe.\n"
+  - registryID: 1
+    levelCompleted: 2
+    narrative: "\nWelcome to F.R.E.E., Former Registry of Enigmas and Enemies.\n\r\nVEN-U5
+      was ready to sacrifice millions of robotic lives at the cost of saving the
+      androids' consciousness. I could not allow her to acquire the Keycard; it would
+      have been too dangerous. \nPlease continue to dive into WILL and find out what
+      happened next.\n\nThanks for your attention -- and be safe.\n\r"

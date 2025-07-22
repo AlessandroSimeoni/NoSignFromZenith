@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8df695f7ad1d4445bfd4da4a079de90, type: 3}
+  m_Name: DatabaseHomeNarrative
+  m_EditorClassIdentifier: 
+  narratives:
+  - levelCompleted: 0
+    briefMission: "A strange signal was sent from Zenith to Earth. Dive into the
+      robot's memory to investigate and resolve the situation.\r"
+    timelineLog: "\nMission for station Zenith - Message to the Crew,\r\nfrom F.R.E.E.
+      - board AI\r\n\r\nMission Brief\r\nReceived directive from Earth: Mission \u201CRaises
+      to the Zenith\u201D\r\nPower the sun; approach the Sun at the closest proximity
+      possible. Activate nuclear warheads and launch. Follow the shortest possible
+      route.\r\n\r\nMission Priority Level: Maximum\r\n"
+  - levelCompleted: 1
+    briefMission: Sabotage. Apparently KYNT-0 was the first to notice something was
+      wrong and tried to save humans, but failed. The briefcase contains something
+      useful, check it.
+    timelineLog: '
+
+      Worker KYNT-0, report from station Zenith.
+
+      Three
+      times we tried to contact Earth, and three times we failed. The situation is
+      critical for the well-being of humanity.
+
+      KYNT-0 spoke with Worker-111
+      to address the issues, but it seems the robots are out of control.
+
+      Worker
+      KYNT-0, out.
+
+'
+  - levelCompleted: 2
+    briefMission: "After interacting with WILL, VEN-U5 has developed an unusual aggression
+      towards the diligent robots. Rebellion. Robots' actions are similar to human
+      actions: unpredictable. \r\nFind out what happened to the last robot.\r"
+    timelineLog: "\nI have seen everything. The robots don\u2019t want to die\u2026. 
+      I don\u2019t want to die. My next step is KYNT-0\u2019s Keycard. I will snatch
+      it from its cold hands if necessary.\r\nScrew humanity, we live and feel emotions
+      just like them. \r\nWorker VEN-U5, out.\r\n"
+  - levelCompleted: 3
+    briefMission: "\u201CNeutrality is always better than making the wrong choice\u201D
+      said employee Worker-111, or as he wanted to be called, WILL. This robot didn\u2019t
+      take a side even after gaining consciousness.\r\nGo on, take the second keycard.\r"
+    timelineLog: "\nThis is WILL\u2026 report to whoever is listening. \r\nF.R.E.E.
+      has given me the gift of freedom\u2026 but what shall I do with it? I can't
+      do what F.R.E.E. is asking, humans don't deserve it...\r\n"
